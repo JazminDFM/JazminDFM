@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on future projects of programming. 
 - 📫 How to reach me, GitHub, LinkedIn: www.linkedin.com/in/jazmin-matta-chávez-0161a8184, Behance: https://www.behance.net/jazminmatta ...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can solve rubik cube in 36s B)
+- ⚡ Fun fact: I can solve Rubik's cube in 36s B)
 
 <!---
 JazminDFM/JazminDFM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
